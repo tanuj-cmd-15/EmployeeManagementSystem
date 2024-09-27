@@ -1,6 +1,3 @@
-Here's a **GitHub repository description** for your **Employee Management System** project:
-
----
 
 ### Employee Management System
 
@@ -64,5 +61,3 @@ The database includes tables for `users`, `roles`, `employees`, `projects`, `fin
 Contributions are welcome! Please fork the repository and create a pull request with your improvements or bug fixes.
 
 ---
-
-This description provides an overview of the project, its features, and instructions for setup, as well as future enhancement possibilities. Feel free to customize the content as needed!
